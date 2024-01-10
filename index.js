@@ -19,3 +19,5 @@ function countDown() {
         console.log(nim--)
     }
 }
+
+console.log(hi);
